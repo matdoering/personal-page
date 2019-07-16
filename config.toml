@@ -9,11 +9,11 @@
 baseurl = "/"
 
 # Title of your site
-title = "Matthias Döring"
+title = "Dr. Matthias Döring"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -52,11 +52,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Matthias Döring"
-  role = "PhD candidate in Bioinformatics"
+  role = "Software Architect"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Max Planck Institute for Informatics", url = "http://www.mpi-inf.mpg.de" } ]
+  organizations = [ { name = "DB Systel", url = "http://www.dbsystel.de" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "matthias_doering.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

@@ -27,4 +27,4 @@ count = 5
 list_format = 2
 +++
 
-I'm frequently writing posts on [datascienceblog.net, a blog about data science applications in R](https://www.datascienceblog.net).
+I'm frequently writing posts on [datascienceblog.net, a blog about everything related to data science and programming](https://www.datascienceblog.net).

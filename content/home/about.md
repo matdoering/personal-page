@@ -19,12 +19,17 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "MSc in Bioinformatics"
+    course = "PhD (Bioinformatics)"
+    institution = "Max Planck Institute for Informatics"
+    year = 2019
+
+[[education.courses]]
+  course = "MSc (Bioinformatics)"
   institution = "Saarland University"
   year = 2014
 
 [[education.courses]]
-  course = "BSc in Bioinformatics"
+  course = "BSc (Computational Molecular Biology)"
   institution = "Saarland University"
   year = 2011
  
@@ -32,6 +37,4 @@ weight = 5
 
 # Biography
 
-I'm a PhD candidate at Saarland Informatics Campus where I'm investigating computational approaches for improving treatment and prevention of viral infections. This research resulted in three bioinformatic tools: [openPrimeR](http://openprimer.mpi-inf.mpg.de/), <a href = "https://ngs.geno2pheno.org/">geno2pheno[ngs-freq]</a>, and <a href = "https://coreceptor-hiv2.geno2pheno.org/">geno2pheno[coreceptor-hiv2]</a>. I hold a BSc and MSc in Bioinformatics from Saarland University. In my
-bachelor's and master's thesis I used supervised learning for viral genotyping and methylation profiling. In my free time I like to blog about [applying data science in R](https://www.datascienceblog.net).
-
+I am currently working as a software architect/developer at DB Systel where I'm supporting the digitalization of the German railway system. Previously, I completed my PhD at the Max Planck Institute for Informatics where I researched computational methods for improving treatment and prevention of viral infections.
