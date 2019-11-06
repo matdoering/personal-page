@@ -33,7 +33,7 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["geno2pheno-hiv2]"]
+#projects = ["geno2pheno-hiv2]"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -42,6 +42,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://retrovirology.biomedcentral.com/track/pdf/10.1186/s12977-016-0320-7"
 url_poster = "/g2p_coreceptor-hiv2_glasgow_2016.pdf"
+url_project = "https://coreceptor-hiv2.geno2pheno.org"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

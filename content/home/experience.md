@@ -55,29 +55,6 @@ In summary:
 * I was involved in the statistical analysis for two clinical studies
 * I maintained and extended a NGS processing pipeline for identifying drug resistance mutations
   """
-
-[[experience]]
-  title = "Fitness Trainer"
-  company = "Uni-Fit"
-  company_url = "http://www.uni-saarland.de"
-  location = "Saarbrücken"
-  date_start = "2014-04-01"
-  date_end = "2018-09-01"
-  description = """
-As a trainer at the university's gym, my responsibilities included supervision of introductory courses and personal training.
-"""
-
-[[experience]]
-  title = "Mentor"
-  company = "Saarland University"
-  company_url = "http://www.uni-saarland.de"
-  location = "Saarbrücken"
-  date_start = "2012-10-01"
-  date_end = "2012-07-30"
-  description = """
-As a mentor, I was responsibe for assisting new Bioinformatics students arriving at university.
-"""
-
 [[experience]]
   title = "Software Development Intern"
   company = "Miaplaza"
@@ -89,48 +66,4 @@ As a mentor, I was responsibe for assisting new Bioinformatics students arriving
 As a software development intern, I worked on an [e-learning platform](http://www.alwaysicecream.com) using C# and was involved in game development using ImpactJS.
 """
 
-[[experience]]
-  title = "Scientific Assistant"
-  company = "Max Planck Institute for Informatics"
-  company_url = "http://www.mpi-inf.mpg.de"
-  location = "Saarbrücken"
-  date_start = "2011-10-01"
-  date_end = "2012-12-30"
-  description = """
-As a scientific assistant I was responsible for deploying a naive-Bayes model for [genotyping HBV](http://hbv.geno2pheno.org) using PHP.
-"""
-
-
-[[experience]]
-  title = "Teaching Assistant"
-  company = "Saarland University"
-  company_url = "http://www.uni-saarland.de"
-  location = "Saarbrücken"
-  date_start = "2011-04-01"
-  date_end = "2011-07-30"
-  description = """
-As a teaching assistant for the lecture *Software  Tools  for  Bioinformatics*, I assisted during the tutorials where we taught students how to use current bioinformatic tools (e.g. Copasi and Cytoscape) and databases (e.g. NCBI and UniProt).
-"""
-
-[[experience]]
-  title = "Scientific Assistant"
-  company = "Max Planck Institute for Informatics"
-  company_url = "http://www.mpi-inf.mpg.de"
-  location = "Saarbrücken"
-  date_start = "2011-03-01"
-  date_end = "2011-06-30"
-  description = """
-In my role as a scientific assistant, I was responsible for documenting the [GISAID EpiFlu database ](https://www.gisaid.org/) using HTML resources.
-"""
-
-[[experience]]
-  title = "Scientific Assistant"
-  company = "Max Planck Institute for Informatics"
-  company_url = "http://www.mpi-inf.mpg.de"
-  location = "Saarbrücken"
-  date_start = "2010-04-01"
-  date_end = "2011-01-30"
-  description = """
-In my role as a scientific assistant, I was responsible for creating a summary of the Bioinformatics 2 lecture. This involved transcribing audios from the lectures, researching bioinformatic methods, and creating a Latex document.
-"""
 +++

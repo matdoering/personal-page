@@ -9,7 +9,7 @@ title = "Recent Posts"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 9
 
 # Filter posts by tag.
 #  By default, show all recent posts.
@@ -28,3 +28,4 @@ list_format = 2
 +++
 
 I'm frequently writing posts on [datascienceblog.net, a blog about everything related to data science and programming](https://www.datascienceblog.net).
+I've also contributed an article about [the historic popularity of supervised learning models to KDnuggets](https://www.kdnuggets.com/2018/12/supervised-learning-model-popularity-from-past-present.html)
