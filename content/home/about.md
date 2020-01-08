@@ -37,4 +37,4 @@ weight = 5
 
 # Biography
 
-I am currently working as a software architect/developer at DB Systel where I'm supporting the digitalization of the German railway system. Previously, I completed my PhD at the Max Planck Institute for Informatics where I researched computational methods for improving treatment and prevention of viral infections.
+I am currently working as a software architect/developer at DB Systel where I'm supporting the digitalization of the German railway system. Previously, I completed my PhD at the Max Planck Institute for Informatics where I researched [computational methods for improving treatment and prevention of viral infections](computational_approaches_doering_2019.pdf). 
