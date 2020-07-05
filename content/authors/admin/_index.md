@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: AI Specialist
+role: IT Architect
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,9 @@ bio: PhD in Bioinformatics. Machine Learning Engineer. Data Scientist.
 
 interests:
 - Machine Learning
-- Bioinformatics
-- Applied Statistics
 - Software Development
+- Applied Statistics
+- Bioinformatics
 
 education:
   courses:

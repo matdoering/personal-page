@@ -26,8 +26,12 @@ company_url = "https://www.dbsystel.de"
 location = "Frankfurt/Main"
 date_start = "2019-02-01"
 date_end = ""
-description = """
-I am currently working on a project that aims at optimizing the usage of the German railroad infrastructure.
+description = """As an IT architect, my responsibilities include:
+
+* Modeling and evaluating technical architectures
+* Software development and testing
+* Ensuring software quality 
+* DevOps: infrastructure provisioning (IaaS) and pipelining
 """
 
 [[experience]]
@@ -56,7 +60,7 @@ I am currently working on a project that aims at optimizing the usage of the Ger
 
 [[experience]]
   title = "Software Development Intern"
-  company = "Miaplaza"
+  company = "Miaplaza Inc."
   company_url = "https://www.miaplaza.com/"
   location = "Menlo Park (California)"
   date_start = "2012-06-01"

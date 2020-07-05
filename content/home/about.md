@@ -15,32 +15,6 @@ author = "admin"
 # Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Machine Learning",
-    "Bioinformatics",
-    "Applied Statistics",
-    "Software Development"
-  ]
-
-# List your qualifications (such as academic degrees).
-
-[[education.courses]]
-    course = "PhD (Bioinformatics)"
-    institution = "Max Planck Institute for Informatics"
-    year = 2019
-
-[[education.courses]]
-  course = "MSc (Bioinformatics)"
-  institution = "Saarland University"
-  year = 2014
-
-[[education.courses]]
-  course = "BSc (Computational Molecular Biology)"
-  institution = "Saarland University"
-  year = 2011
- 
 +++
 
 # Biography
