@@ -1,8 +1,16 @@
 +++
 # About/Biography widget.
-widget = "about"
-active = true
-date = 2018-10-23
+widget = "about"  # Do not modify this line!
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear in.
+headless = true
+
+title = "Biography"
+
+# Choose the user profile to display
+# This should be the username of a profile in your `content/author/` folder.
+author = "admin"
++++
 
 # Order that this section will appear in.
 weight = 5
