@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Scrum.org"
   organization_url = "https://www.scrum.org"
-  title = "Professioanl Scrum Developer I (PSD I)"
+  title = "Professional Scrum Developer I (PSD I)"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   certificate_url = "https://www.scrum.org/certificates/435283"
   date_start = "2019-07-28"
