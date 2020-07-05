@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 headless = true
 
-title = "PhD Projects"
+title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -29,24 +29,24 @@ weight = 50
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+  #[[content.filter_button]]
+  #  name = "Deep Learning"
+  #  tag = "Deep Learning"
   
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+  #[[content.filter_button]]
+  #  name = "Other"
+  #  tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

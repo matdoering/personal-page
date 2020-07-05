@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-title = "Software Architect"
+title = "IT Architect"
 company = "DB Systel"
 company_url = "https://www.dbsystel.de"
 location = "Frankfurt/Main"
@@ -31,31 +31,29 @@ I am currently working on a project that aims at optimizing the usage of the Ger
 """
 
 [[experience]]
-  title = "Researcher in Bioinformatics"
+  title = "Bioinformatics Researcher"
   company = "Max Planck Institute for Informatics"
   company_url = "http://www.mpi-inf.mpg.de"
   location = "Saarbrücken"
   date_start = "2014-09-01"
   date_end = "2019-01-31"
-  description = """
-During my PhD, I worked as a researcher at the department of [Computational Biology & Applied algorithmics](https://bioinf.mpi-inf.mpg.de/) at the Max Planck Institute for Informatics. As a member of the [Statistical Learning in Computational Group](https://slcb.mpi-inf.mpg.de/), the focus of my work was on the development of machine learning methods that can assist the fight against viral infections such as HIV. 
+  description = """As a bioinformatics researcher, my responsibilities included:<br><br>
 
-In my work, I was involved in evaluating two clinical studies. For the EucoHIV project, which studies the efficacy of maraviroc treatment in Europe, I computed descriptive statistics and visualizations of quantities of interest such as CD4 cell counts, viral loads, and treatment success. To report the current status of the analysis, I created several comprehensive summaries of the results using Latex. For an [epidemiological study on
-  HCV](https://www.sciencedirect.com/science/article/pii/S1386653216301123), I was responsible for the statistical analyses of the data using log-linear models.
+* Development of new machine learning approaches (e.g. using support vector machines or logistic regression)
 
-Having attended a meeting of the [HIV-2EU study group](https://academic.oup.com/cid/article/56/11/1654/303269), I became aware of the problem of HIV-2 coreceptor prediction. After I had collected pairs of viral sequences and tropism assay measurements, I began developing a support vector machine for predicting HIV-2 coreceptor usage. Using R, I processed the data, engineered relevant features, performed model selection, and deployed the model (C++/PHP) in terms of the [geno2pheno[coreceptor-hiv2] web service](https://coreceptor-hiv2.geno2pheno.org/). 
-  
-My responsibilities also included calling drug resistance mutations using next-generation sequencing (NGS) data. For this purpose, I maintained and extended an NGS pipeline (Python/R) for the determination of HBV/[HCV resistance mutations](https://aasldpubs.onlinelibrary.wiley.com/doi/full/10.1002/hep.28255). Based on this experience, I developed the [geno2pheno[ngs-freq] web server](https://ngs.geno2pheno.org/) (C++/JavaScript), which can be used to identify minor resistance variants in HIV-1 and HCV using the algorithms of geno2pheno[resistance] and geno2pheno[hcv], respectively. The development of the tool was guided by the experts in the field, particularly those from the [Institute of Virology in Cologne](http://virologie.uk-koeln.de/).
+* Statistical evaluation of clinical studies
 
-Finally, I developed [openPrimeR](http://openprimer.mpi-inf.mpg.de/), a new multiplex primer design tool that is suitable for the amplification of highly mutated antibodies against HIV-1, which evolved through close collaboration with [Florian Klein's group](https://klein-lab.de/). The work resulted in two R packages that were released at Bioconductor, the [openPrimeR package](https://bioconductor.org/packages/release/bioc/html/openPrimeR.html) as well as the [openPrimeRui package](https://bioconductor.org/packages/release/bioc/html/openPrimeRui.html), which provides a frontend using the Shiny framework.
+* Processing and analyzing next-generation sequencing data
 
-In summary: 
-  
-* Using machine learning, I developed two treatment decision support systems, which are used in clinical practice
-* I developed a new tool for multiplex primer design with which novel antibodies against HIV-1 were identified
-* I was involved in the statistical analysis for two clinical studies
-* I maintained and extended a NGS processing pipeline for identifying drug resistance mutations
-  """
+* Development of new methods for PCR primer design and primer evaluation
+
+* Software design and implementation
+
+* Communication with stakeholders from virology, medicine, and immunology 
+
+* Publications in well-established scientific journals
+"""
+
 [[experience]]
   title = "Software Development Intern"
   company = "Miaplaza"

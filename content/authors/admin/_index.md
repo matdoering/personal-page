@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Architect/Developer
+role: AI Specialist
 
 # Organizations/Affiliations
 organizations:

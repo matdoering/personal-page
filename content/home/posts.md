@@ -5,9 +5,11 @@ widget = "pages"
 active = true
 date = 2016-04-20T00:00:00
 headless = true
+weight = 100
 
 title = "Recent Posts"
 subtitle = ""
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
