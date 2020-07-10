@@ -32,7 +32,6 @@ Darjeeling is a highly-available system for serving machine-learning models<br><
 #tags = ["machine-learning"]
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://ngs.geno2pheno.org
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
