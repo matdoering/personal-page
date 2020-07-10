@@ -22,7 +22,7 @@ bio: PhD in Bioinformatics. Machine Learning Engineer. Data Scientist.
 
 interests:
 - Machine Learning
-- Software Development
+- Software Design and Architecture
 - Applied Statistics
 - Bioinformatics
 
@@ -73,4 +73,4 @@ user_groups:
 #- Visitors
 ---
 
-I am currently working as a software architect/developer at DB Systel where I'm supporting the digitalization of the German railway system. Previously, I completed my PhD at the Max Planck Institute for Informatics where I researched [computational methods for improving treatment and prevention of viral infections](computational_approaches_doering_2019.pdf). 
+I like to work on exciting IT projects. I have a wide range of expertise with focal points in data science, software development, and bioinformatics.
