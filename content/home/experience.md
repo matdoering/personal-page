@@ -20,13 +20,13 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-title = "IT Architect"
+title = "IT Architect for AI"
 company = "DB Systel"
 company_url = "https://www.dbsystel.de"
 location = "Frankfurt/Main"
 date_start = "2019-02-01"
 date_end = ""
-description = """As an IT architect, my responsibilities include:
+description = """As an IT architect, my responsibilities include:<br><br>
 
 * Modeling and evaluating technical architectures
 * Software development and testing
