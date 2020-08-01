@@ -21,9 +21,9 @@ organizations:
 bio: PhD in Bioinformatics. Machine Learning Engineer. Data Scientist.
 
 interests:
+- Data Science
+- Application Architecture
 - Machine Learning
-- Software Design and Architecture
-- Applied Statistics
 - Bioinformatics
 
 education:
