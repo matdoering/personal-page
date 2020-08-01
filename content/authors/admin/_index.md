@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:matthias-doering@gmx.de
+  link: mailto:matthias@datascienceblog.net
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=Le76zYAAAAAJ
@@ -73,4 +73,4 @@ user_groups:
 #- Visitors
 ---
 
-I like to work on exciting IT projects. I have a wide range of expertise with focal points in data science, software development, and bioinformatics.
+I like to work on exciting IT projects in the AI sphere. I have broad interests, with focal points in data science, application architecture, and bioinformatics.
