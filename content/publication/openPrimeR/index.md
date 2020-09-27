@@ -41,6 +41,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://www.sciencedirect.com/science/article/pii/S0022175920300193"
+url_poster = "/openPrimeR_CROI_2018.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
